@@ -23,7 +23,7 @@ TODO: screenshot, clean console logs
 
 ## Inspect the Pods
 
-**The below is not part of our demo, but might help understand the technical implications.**
+**The below is not part of our demo, but might be of interest to follow along. Use on your own, we take no guarantee**
 
 Besides checking the console logs,
 Pods can also be inspected with Solid Pod browsers, 
